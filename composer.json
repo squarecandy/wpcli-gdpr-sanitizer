@@ -19,7 +19,7 @@
         "fzaninotto/faker": "^1.7"
     },
     "require-dev": {
-        "wp-cli/wp-cli": "^1.1.0",
+        "wp-cli/wp-cli": "^2.7",
         "behat/behat": "~2.5",
         "squizlabs/php_codesniffer": "^2.2 || ^3.0.2",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
